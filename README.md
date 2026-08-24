@@ -88,7 +88,7 @@ sudo traceroute -U www.google.com
 sudo traceroute  www.google.com
 ## output
 
-<img width="1558" height="1010" alt="ChatGPT Image Ethical hacking" src="https://github.com/user-attachments/assets/0a8c19fb-73b1-4bb0-a68b-04c562a937d9" />
+<img width="1586" height="992" alt="ChatGPT Image Aug 24, 2026, 11_59_34 PM ethical hacking" src="https://github.com/user-attachments/assets/16dbf6a3-c7dc-4a90-97ee-d45372dac519" />
 
 
 
